@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hongbog Dementia</string>
+    <string name="no_image">No Image</string>
+    <string name="gallery">Gallery</string>
+    <string name="diagnosis">Diagnosis</string>
+    <string name="filming">Filming</string>
+</resources>
